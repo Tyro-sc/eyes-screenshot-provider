@@ -64,6 +64,13 @@
         </license>
     </licenses>
 
+    <scm>
+        <connection>scm:git:git@github.com:Tyro-sc/eyes-screenshot-provider.git</connection>
+        <developerConnection>scm:git:git@github.com:Tyro-sc/eyes-screenshot-provider.git</developerConnection>
+        <url>https://github.com/Tyro-sc/eyes-screenshot-provider</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <developers>
         <developer>
             <id>altus34</id>
