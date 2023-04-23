@@ -36,7 +36,7 @@
 
         <tyro-web.version>1.4.0</tyro-web.version>
         <applitools-eyes.version>3.207.3</applitools-eyes.version>
-        <groovy.version>3.0.15</groovy.version>
+        <groovy.version>3.0.17</groovy.version>
         <slf4j.version>2.0.6</slf4j.version>
 
         <!-- Tests -->
